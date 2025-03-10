@@ -1,12 +1,12 @@
 package src.model;
 
-public class Cart {
+public class Card {
     private String name;
     private String id;
     private String type;
     private String gender;
     
-    public Cart(String name, String id, String type, String gender){
+    public Card(String name, String id, String type, String gender){
         this.name = name;
         this.id = id;
         this.type = type;
